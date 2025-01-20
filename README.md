@@ -3,7 +3,7 @@
 Email: kuzmichmaksym1997@gmail.com<br/>
 Telegram: https://t.me/Nebuddha_Dev<br/>
 LinkedIn: https://www.linkedin.com/in/maksymkuzmych<br/>
-CodeWars (4kuy): https://www.codewars.com/users/rsschool_8006b8e98e6d16ad<br/>
+CodeWars (4kuy): https://www.codewars.com/users/Nebuddha<br/>
 CV: [CV Maksym Kuzmych.pdf](https://github.com/MaksymKuzmych/MaksymKuzmych/files/10995978/CV.Maksym.Kuzmych.pdf)<br/>
 
 ### Pet Projects
